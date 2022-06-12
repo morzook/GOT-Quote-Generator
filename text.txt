@@ -1,0 +1,22 @@
+{
+    quote: 'one one one',
+    author: 'okan',
+},
+
+{
+    quote: 'two two two',
+    author: 'eji',
+},
+
+{
+    quote: 'thre three',
+    author: 'eta',
+},
+
+{
+    quote: 'four four',
+    author: 'erin',
+},
+
+
+
